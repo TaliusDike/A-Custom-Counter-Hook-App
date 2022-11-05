@@ -12,3 +12,5 @@ Implement a page for the:
 - useReducer, 
 - 404 error page,  
 - a page to test error boundary and good SEO.
+
+[Click this link](https://a-custom-counter-hook-app.vercel.app/) to see the deployed app.
