@@ -50,7 +50,7 @@
 
 .errorpage-link:hover {
   color: rgba(255, 0, 0, 0.815);
-  background-color: rgb(22, 20, 20);
+  background-color: rgb(2, 2, 2);
 }
 
 .errorpage-container h1 {
@@ -75,12 +75,18 @@ p {
   border: 1px solid red;
 }
 
+.counter-btn:hover {
+  cursor: pointer;
+  color: rgba(255, 0, 0, 0.815);
+  background-color: rgb(2, 2, 2);
+}
+
 .counterapp-container {
   /* background-color: #978989e3; */
   box-shadow: 10px 10px 8px 10px #888888;
   max-width: 80%;
   margin: 0 auto;
-  height: 60vh;
+  
 }
 
 .counterapp-container p {
